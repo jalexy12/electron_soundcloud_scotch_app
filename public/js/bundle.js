@@ -1,0 +1,1 @@
+console.error("SyntaxError: /Users/josh/Documents/electron_apps/ordering-app/.babelrc: Error while parsing JSON - Syntax error while parsing file: /Users/josh/Documents/electron_apps/ordering-app/app/app.js");
